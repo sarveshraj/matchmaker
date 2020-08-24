@@ -1,4 +1,4 @@
-package events
+package dtos
 
 // MatchRequestEvent will be the match making event published by games
 type MatchRequestEvent struct {
